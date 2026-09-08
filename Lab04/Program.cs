@@ -11,7 +11,7 @@ namespace Lab04
     {
         static void Main(string[] args)
         {
-            // วาง HEADER-TEMPLATE.txt ของอาจารย์ไว้ตรงนี้ก่อนโค้ดทั้งหมด
+            
 
             // Screen 1 — Character Creation
             Console.WriteLine("+------------------------------+");
