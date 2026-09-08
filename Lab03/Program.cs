@@ -1,4 +1,11 @@
-﻿namespace Lab03
+﻿/*
+ * Student ID :1690704588
+ * Name       :อานุภาพ อนุรักษ์สยาม
+ * Section    :129D
+ * No.        :NA
+ * Course     : GI113 Computer Programming (GI)
+ */
+namespace Lab03
 {
     internal class Program
     {
