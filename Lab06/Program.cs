@@ -1,4 +1,10 @@
-﻿using System.Net.Security;
+﻿/*
+* Student ID :1690704588
+* Name       :อานุภาพ อนุรักษ์สยาม
+* Section    :129D
+* No.        :NA
+* Course     : GI113 Computer Programming (GI)
+*/using System.Net.Security;
 
 namespace Lab06
 {
