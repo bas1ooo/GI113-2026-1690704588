@@ -25,7 +25,7 @@ namespace Lab07
             Console.WriteLine("2) Fire Magic");
             Console.WriteLine("3) Defend");
             Console.WriteLine("4) Run");
-            Console.WriteLine("5) Ice Spear");
+            Console.WriteLine("5) Fire Sword");
 
             Console.Write("Choose (1-5): ");
             int.TryParse(Console.ReadLine(), out int command);
@@ -49,7 +49,7 @@ namespace Lab07
                     break;
 
                 case 5:
-                    Console.WriteLine("Hero casts Ice Spear!");
+                    Console.WriteLine("Hero casts Fire Sword!");
                     break;
 
                 default:
